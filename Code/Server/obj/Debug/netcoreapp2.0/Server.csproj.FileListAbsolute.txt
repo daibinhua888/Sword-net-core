@@ -1,0 +1,17 @@
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Server.deps.json
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.json
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Server.runtimeconfig.dev.json
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Server.dll
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Server.pdb
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfoInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.AssemblyInfo.cs
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.dll
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.pdb
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\IService.dll
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\ServiceImpl.dll
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Sword.dll
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\Sword.pdb
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\IService.pdb
+C:\Users\z\source\repos\dotNetCoreSword\Server\bin\Debug\netcoreapp2.0\ServiceImpl.pdb
+C:\Users\z\source\repos\dotNetCoreSword\Server\obj\Debug\netcoreapp2.0\Server.csprojResolveAssemblyReference.cache

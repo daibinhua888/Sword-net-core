@@ -1,0 +1,8 @@
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\bin\Debug\netcoreapp2.0\Sword.deps.json
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\bin\Debug\netcoreapp2.0\Sword.dll
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\bin\Debug\netcoreapp2.0\Sword.pdb
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\obj\Debug\netcoreapp2.0\Sword.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\obj\Debug\netcoreapp2.0\Sword.AssemblyInfoInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\obj\Debug\netcoreapp2.0\Sword.AssemblyInfo.cs
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\obj\Debug\netcoreapp2.0\Sword.dll
+C:\Users\z\source\repos\dotNetCoreSword\dotNetCoreSword\obj\Debug\netcoreapp2.0\Sword.pdb

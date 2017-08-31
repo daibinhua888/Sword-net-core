@@ -1,0 +1,8 @@
+C:\Users\z\source\repos\dotNetCoreSword\IService\bin\Debug\netcoreapp2.0\IService.deps.json
+C:\Users\z\source\repos\dotNetCoreSword\IService\bin\Debug\netcoreapp2.0\IService.dll
+C:\Users\z\source\repos\dotNetCoreSword\IService\bin\Debug\netcoreapp2.0\IService.pdb
+C:\Users\z\source\repos\dotNetCoreSword\IService\obj\Debug\netcoreapp2.0\IService.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\IService\obj\Debug\netcoreapp2.0\IService.AssemblyInfoInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\IService\obj\Debug\netcoreapp2.0\IService.AssemblyInfo.cs
+C:\Users\z\source\repos\dotNetCoreSword\IService\obj\Debug\netcoreapp2.0\IService.dll
+C:\Users\z\source\repos\dotNetCoreSword\IService\obj\Debug\netcoreapp2.0\IService.pdb

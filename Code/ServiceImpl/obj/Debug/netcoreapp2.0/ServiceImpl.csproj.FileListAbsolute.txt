@@ -1,0 +1,13 @@
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.csprojResolveAssemblyReference.cache
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.csproj.CoreCompileInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.AssemblyInfoInputs.cache
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.AssemblyInfo.cs
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\ServiceImpl.deps.json
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\ServiceImpl.dll
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\ServiceImpl.pdb
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\IService.dll
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\Sword.dll
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\Sword.pdb
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\bin\Debug\netcoreapp2.0\IService.pdb
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.dll
+C:\Users\z\source\repos\dotNetCoreSword\ServiceImpl\obj\Debug\netcoreapp2.0\ServiceImpl.pdb
